@@ -32,12 +32,12 @@ Contributions are welcome! Here's how you can get involved:
    ```bash
    git checkout -b feature/YourFeatureName
 
-Commit your changes:
+3. Commit your changes:
 ```bash
    git commit -m "Add some feature"
 ```
 
-Push to the branch:
+4. Push to the branch:
 ```bash
    git push origin feature/YourFeatureName
 ```
