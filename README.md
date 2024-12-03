@@ -9,18 +9,18 @@ It serves as a space for experimentation and learning.
    ```bash
    git clone https://github.com/yourusername/Learn-PyProjects.git
 
-Navigate to the project folder:
+2. Navigate to the project folder:
   
 ```cd Learn-PyProjects```
 
-(Optional) Create a virtual environment:
+3. (Optional) Create a virtual environment:
   ```bash
     python -m venv env
     source env/bin/activate  # On Windows: env\Scripts\activate
 ```
 
 
-Install dependencies (if any):
+4. Install dependencies (if any):
 
 ```pip install -r requirements.txt```
 
